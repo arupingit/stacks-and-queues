@@ -1,6 +1,6 @@
 
 .DS_Store
 .project
-bin/src/com/arup/stacksAndQueues/final450/MyStack.class
 *.class
 bin/
+.classpath
